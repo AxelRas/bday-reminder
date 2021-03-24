@@ -7,4 +7,4 @@ let todayDM = todayDay + '-' + todayMonth;
 
 
 export const peeps = peopleObj.people.filter(person => person.birthday.slice(0, 5) === todayDM);
-console.log(peeps);
+// console.log(peeps);
