@@ -2,32 +2,32 @@
     "people": [
         {
             "name": "Ronnie Adams",
-            "birthday": "24-3-2016",
+            "birthday": "24-03-2016",
             "picture": "/pictures/ronnieAdams.jpeg"
         },
         {
             "name": "Tony Anderson",
-            "birthday": "24-3-1987",
+            "birthday": "24-03-1987",
             "picture": "/pictures/tonyAnderson.jpeg"
         },
         {
             "name": "Julia Peterson",
-            "birthday": "24-3-1979",
+            "birthday": "24-03-1979",
             "picture": "/pictures/juliaPeterson.jpeg"
         },
         {
             "name": "Alejandra Martinez",
-            "birthday": "24-3-1974",
+            "birthday": "24-03-1974",
             "picture": "/pictures/alejandraMartinez.jpeg"
         },
         {
             "name": "Jenny Brown",
-            "birthday": "24-3-1990",
+            "birthday": "24-03-1990",
             "picture": "/pictures/jennyBrown.jpeg"
         },
         {
             "name": "Anastasiya Ivanova",
-            "birthday": "25-3-1980",
+            "birthday": "25-03-1980",
             "picture": "/pictures/anastasiyaIvanova.jpeg"
         }
     ]
